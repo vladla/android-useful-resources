@@ -1,3 +1,3 @@
 ## Tips & Tricks
 
-[35 tips](Tips/35tips.md)
+[35 tips](35tips.md)
