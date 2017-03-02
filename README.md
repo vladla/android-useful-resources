@@ -33,3 +33,8 @@ https://pixplicity.com/dp-px-converter/
 
 DPI Calculator for Android 
 http://jennift.com/dpical.html
+
+***  Licenses information ***
+
+https://i.stack.imgur.com/dOMMF.png
+https://i.stack.imgur.com/CZIoa.png 
