@@ -1,4 +1,4 @@
-## Building Android Apps — 30 things that experience made me learn the hard way
+## Building Android Apps — 35 things that experience made me learn the hard way
 
 Author: [César Ferreira](https://medium.com/@cesarmcferreira)
 
