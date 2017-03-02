@@ -1,6 +1,3 @@
-### Source
-https://goo.gl/6bkB9p
-
 1.  Think twice before adding any third party library, it’s a **really** **serious** commitment;
 2.  If the user can’t see it, [**don’t draw it**](http://riggaroo.co.za/optimizing-layouts-in-android-reducing-overdraw/)!;
 3.  Don’t use a database unless you **really** need to;
@@ -36,3 +33,5 @@ https://goo.gl/6bkB9p
 33.  Monitor power source and battery (**more data updates** while **charging**? **Suspend updates** when **battery is low**?);
 34.  <span class="markup--quote markup--li-quote is-other" name="anon_1e4072e3be2a" data-creator-ids="anon">A user interface is like a joke. If you have to explain it, it’s not that good;</span>
 35.  [Tests are great for performance: Write slow (but correct) implementation then verify optimizations don’t break anything with tests](https://twitter.com/danlew42/status/677151453476032512).
+
+Source: https://goo.gl/6bkB9p
