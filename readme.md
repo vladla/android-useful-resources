@@ -14,17 +14,6 @@ https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95
 source codes
 http://grepcode.com/
 
-*** Design and layouts ***
-
-icons generator
-https://android-material-icon-generator.bitdroid.de
-
-icons generator
-https://romannurik.github.io/AndroidAssetStudio
-
-free icons
-http://app.fontastic.me
-
 drawable importer
 http://plugins.jetbrains.com/idea/plugin/7658-android-drawable-importer
 
@@ -34,4 +23,5 @@ https://pixplicity.com/dp-px-converter/
 DPI Calculator for Android 
 http://jennift.com/dpical.html
 
-## [Licenses](Licenses)
+### [Icons](Icons)
+### [Licenses](Licenses)
