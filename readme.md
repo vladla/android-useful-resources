@@ -1,3 +1,8 @@
+### [Android Studio](Android Studio)
+### [Icons](Icons)
+### [Licenses](Licenses)
+
+### Uncategorized
 
 list of libraries for all occasions
 https://android-arsenal.com
@@ -13,6 +18,3 @@ https://pixplicity.com/dp-px-converter/
 
 DPI Calculator for Android 
 http://jennift.com/dpical.html
-
-### [Icons](Icons)
-### [Licenses](Licenses)
