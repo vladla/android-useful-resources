@@ -4,3 +4,6 @@
 
 ### Explanation of KMP algorithm
 https://youtu.be/GTJr8OvyEVQ
+
+### Algorithms app
+https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms
