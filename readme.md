@@ -1,5 +1,5 @@
 ### [Algorithms](Algorithms)
-### [Android Studio](Android Studio)
+### [Android Studio](AndroidStudio)
 ### [Icons](Icons)
 ### [Licenses](Licenses)
 
