@@ -1,0 +1,2 @@
+* Android versions spreadsheet https://docs.google.com/spreadsheets/d/1fcNxupYaOpNSpmEe02VAMWSV6ItnjeehUwlRhjMT2eA/pubhtml#
+* Android devices spreadsheet(2016) https://docs.google.com/spreadsheets/d/13rBOwUaJwSB-fyqi4IpZnZWxBzwISLb_aNYTY7KWZdY/pubhtml?gid=0&single=true

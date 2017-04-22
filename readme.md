@@ -1,4 +1,5 @@
 ### [Algorithms](Algorithms)
+### [Android Dashboard History](AndroidDashboardHistory)
 ### [Android Studio](AndroidStudio)
 ### [Icons](Icons)
 ### [Licenses](Licenses)
